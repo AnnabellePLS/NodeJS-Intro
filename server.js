@@ -9,3 +9,4 @@ app.use("/", require("./routes"));
 app.listen(PORT, () => {
     console.log(`Test server runnin on port ${PORT}`);
 });
+console.log('branch2')
